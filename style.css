@@ -77,6 +77,7 @@ body  {
     font-size: 24px;
     color: #2f2325;     
 }
+
 .submain {
 display: flex;
 flex-direction: row;
@@ -127,5 +128,12 @@ align-items: center;
     font-family: 'Sarala', sans-serif;
     font-weight: 400;
     font-size: 18px;
-    color: #2f2325;     
+    color: #2f2325; 
+    margin-bottom: 28px;    
+}
+.footer-button:hover {
+    background-color: rgba(236, 214, 196, 0.53);
+}
+.main-items-text-button:hover { 
+    background-color: rgba(236, 214, 196, 0.53);
 }
